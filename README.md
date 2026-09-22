@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0054-spiral-matrix](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0054-spiral-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2540-minimum-common-value](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2540-minimum-common-value/) | Easy |
