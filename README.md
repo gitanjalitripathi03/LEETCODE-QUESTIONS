@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2540-minimum-common-value/) | Easy |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3197-find-the-minimum-area-to-cover-all-ones-ii/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2235-add-two-integers](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2235-add-two-integers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Prefix Sum
