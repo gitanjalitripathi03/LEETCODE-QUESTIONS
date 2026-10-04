@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [4020-elevator-requests-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/4020-elevator-requests-i/) | Easy |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2540-minimum-common-value/) | Easy |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
