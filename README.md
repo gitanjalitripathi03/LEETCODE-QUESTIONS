@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0054-spiral-matrix/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0713-subarray-product-less-than-k/) | Medium |
