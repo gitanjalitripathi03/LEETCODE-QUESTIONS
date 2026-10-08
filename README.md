@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3925-concatenate-array-with-reverse](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [4020-elevator-requests-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/4020-elevator-requests-i/) | Easy |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0054-spiral-matrix/) | Medium |
+| [3925-concatenate-array-with-reverse](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [4020-elevator-requests-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/4020-elevator-requests-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
