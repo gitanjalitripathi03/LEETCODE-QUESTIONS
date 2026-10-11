@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2540-minimum-common-value/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3197-find-the-minimum-area-to-cover-all-ones-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3197-find-the-minimum-area-to-cover-all-ones-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
