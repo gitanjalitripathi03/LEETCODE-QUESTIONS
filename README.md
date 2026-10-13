@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3197-find-the-minimum-area-to-cover-all-ones-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0242-valid-anagram/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0164-maximum-gap/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 <!---LeetCode Topics End-->
