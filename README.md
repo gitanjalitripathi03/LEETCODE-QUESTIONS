@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0022-generate-parentheses/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0242-valid-anagram/) | Easy |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
