@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2540-minimum-common-value/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2942-find-words-containing-character](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2942-find-words-containing-character/) | Easy |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3197-find-the-minimum-area-to-cover-all-ones-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0242-valid-anagram/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
+| [2942-find-words-containing-character](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2942-find-words-containing-character/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
