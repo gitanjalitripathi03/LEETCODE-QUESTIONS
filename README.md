@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0012-integer-to-roman/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [1486-xor-operation-in-an-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2235-add-two-integers](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2235-add-two-integers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -186,5 +187,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 <!---LeetCode Topics End-->
