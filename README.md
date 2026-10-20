@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1720-decode-xored-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1720-decode-xored-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
@@ -188,5 +189,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [1720-decode-xored-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1720-decode-xored-array/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 <!---LeetCode Topics End-->
