@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0164-maximum-gap/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0704-binary-search](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0704-binary-search](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
