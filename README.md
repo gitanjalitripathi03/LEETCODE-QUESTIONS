@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3197-find-the-minimum-area-to-cover-all-ones-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2540-minimum-common-value/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
