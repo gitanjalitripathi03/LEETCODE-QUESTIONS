@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0242-valid-anagram](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0242-valid-anagram/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1796-second-largest-digit-in-a-string](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2540-minimum-common-value/) | Easy |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0242-valid-anagram/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1796-second-largest-digit-in-a-string](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
 | [2942-find-words-containing-character](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2942-find-words-containing-character/) | Easy |
 ## Divide and Conquer
