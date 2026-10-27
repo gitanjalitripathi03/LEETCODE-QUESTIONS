@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0012-integer-to-roman/) | Medium |
+| [0069-sqrtx](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0069-sqrtx/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0069-sqrtx](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1720-decode-xored-array/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
