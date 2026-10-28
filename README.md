@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0039-combination-sum](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0039-combination-sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0054-spiral-matrix/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0039-combination-sum/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
