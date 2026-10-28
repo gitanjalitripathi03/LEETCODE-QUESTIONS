@@ -9,8 +9,8 @@ class Solution {
     public static void comb(int[] candidates, int amount, List<Integer> ll, int idx, List<List<Integer>> list){
         if(amount == 0){
             //System.out.print(ll);
-            List<Integer> l = new ArrayList<>(ll);
-            list.add(l);
+            //List<Integer> l = new ArrayList<>(ll);
+            list.add(new ArrayList<>(ll));
             return;
         }
 
