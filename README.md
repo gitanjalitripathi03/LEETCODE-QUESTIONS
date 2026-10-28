@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0022-generate-parentheses/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0242-valid-anagram/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0053-maximum-subarray/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0039-combination-sum/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
