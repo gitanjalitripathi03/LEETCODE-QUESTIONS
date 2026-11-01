@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2540-minimum-common-value](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2540-minimum-common-value/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2540-minimum-common-value](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2540-minimum-common-value/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2540-minimum-common-value](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2540-minimum-common-value/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## String
 | Problem Name | Difficulty |
