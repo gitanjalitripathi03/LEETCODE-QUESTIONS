@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1720-decode-xored-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1720-decode-xored-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0242-valid-anagram](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0242-valid-anagram/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1796-second-largest-digit-in-a-string](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2540-minimum-common-value](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2540-minimum-common-value/) | Easy |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0242-valid-anagram/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
