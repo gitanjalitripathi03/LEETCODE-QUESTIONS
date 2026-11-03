@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2235-add-two-integers/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3870-count-commas-in-range](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Prefix Sum
