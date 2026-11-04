@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0645-set-mismatch](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0242-valid-anagram](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0242-valid-anagram/) | Easy |
+| [0645-set-mismatch](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0645-set-mismatch/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1796-second-largest-digit-in-a-string](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0164-maximum-gap/) | Medium |
 | [0242-valid-anagram](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0242-valid-anagram/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0645-set-mismatch](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0645-set-mismatch/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0645-set-mismatch](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0645-set-mismatch/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1720-decode-xored-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1720-decode-xored-array/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
