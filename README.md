@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1720-decode-xored-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1720-decode-xored-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2540-minimum-common-value/) | Easy |
 ## Sorting
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0645-set-mismatch/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
