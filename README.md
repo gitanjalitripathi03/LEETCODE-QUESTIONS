@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2235-add-two-integers](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2235-add-two-integers/) | Easy |
