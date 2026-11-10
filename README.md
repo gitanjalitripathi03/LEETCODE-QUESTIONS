@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3866-first-unique-even-element](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3866-first-unique-even-element/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -108,12 +109,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
+| [3866-first-unique-even-element](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3866-first-unique-even-element/) | Easy |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
+| [3866-first-unique-even-element](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3866-first-unique-even-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
