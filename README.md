@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0164-maximum-gap](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0164-maximum-gap/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0242-valid-anagram/) | Easy |
 | [0645-set-mismatch](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0645-set-mismatch/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
