@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0022-generate-parentheses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0022-generate-parentheses/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -258,5 +260,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0020-valid-parentheses/) | Easy |
 | [0682-baseball-game](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0682-baseball-game/) | Easy |
 <!---LeetCode Topics End-->
