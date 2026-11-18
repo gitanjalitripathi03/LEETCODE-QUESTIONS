@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0645-set-mismatch](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0645-set-mismatch/) | Easy |
+| [0682-baseball-game](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0054-spiral-matrix/) | Medium |
+| [0682-baseball-game](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0682-baseball-game/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [4020-elevator-requests-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/4020-elevator-requests-i/) | Easy |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0069-sqrtx/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0682-baseball-game](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0682-baseball-game/) | Easy |
 <!---LeetCode Topics End-->
