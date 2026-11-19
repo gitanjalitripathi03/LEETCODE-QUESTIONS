@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0039-combination-sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0054-spiral-matrix/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0164-maximum-gap](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0164-maximum-gap/) | Medium |
@@ -261,5 +262,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0020-valid-parentheses/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0682-baseball-game](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0682-baseball-game/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
