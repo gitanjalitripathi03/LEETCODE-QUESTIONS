@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0054-spiral-matrix/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0085-maximal-rectangle/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0164-maximum-gap](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0164-maximum-gap/) | Medium |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0054-spiral-matrix/) | Medium |
+| [0085-maximal-rectangle](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0085-maximal-rectangle/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3197-find-the-minimum-area-to-cover-all-ones-ii/) | Hard |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0053-maximum-subarray/) | Medium |
+| [0085-maximal-rectangle](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0085-maximal-rectangle/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -263,11 +266,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0085-maximal-rectangle/) | Hard |
 | [0682-baseball-game](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0682-baseball-game/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0085-maximal-rectangle/) | Hard |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
