@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
 | [2942-find-words-containing-character](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2942-find-words-containing-character/) | Easy |
