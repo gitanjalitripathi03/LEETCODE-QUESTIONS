@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2540-minimum-common-value](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2540-minimum-common-value/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
 | [2942-find-words-containing-character](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2942-find-words-containing-character/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
