@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0054-spiral-matrix/) | Medium |
 | [0682-baseball-game](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/0682-baseball-game/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
+| [3360-stone-removal-game](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3360-stone-removal-game/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [4020-elevator-requests-i](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/4020-elevator-requests-i/) | Easy |
 ## Math
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2235-add-two-integers](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/2235-add-two-integers/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3360-stone-removal-game](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3360-stone-removal-game/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3870-count-commas-in-range](https://github.com/gitanjalitripathi03/LEETCODE-QUESTIONS/tree/main/3870-count-commas-in-range/) | Easy |
